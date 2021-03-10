@@ -9,7 +9,7 @@ public class FactRecursive {
 		
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.print("ÆÑÅä¸®¾óÀ» ±¸ÇÒ Á¤¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä");
+		System.out.print("íŒ©í† ë¦¬ì–¼ì„ êµ¬í•  ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš”");
 		input = scanner.nextInt();
 		
 		System.out.println(fact(input));
