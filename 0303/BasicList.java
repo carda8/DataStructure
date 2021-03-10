@@ -15,7 +15,7 @@ public class BasicList {
 
 		num = new int[count];
 		
-		System.out.print("5°³ÀÇ ¼ıÀÚ¸¦ ÀÔ·ÂÇÏ¼¼¿ä");
+		System.out.print("5Â°Â³Ã€Ã‡ Â¼Ã½Ã€ÃšÂ¸Â¦ Ã€Ã”Â·Ã‚Ã‡ÃÂ¼Â¼Â¿Ã¤");
 		for (int i = 0; i < count ; i++) {
 			num[i] = scanner.nextInt();
 		}
